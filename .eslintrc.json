@@ -1,0 +1,6 @@
+{
+	"root": true,
+	"extends": ["tesseract", "prettier"],
+	"plugins": ["@typescript-eslint"],
+	"parser": "@typescript-eslint/parser"
+}
