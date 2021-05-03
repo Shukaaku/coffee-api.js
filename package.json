@@ -36,7 +36,7 @@
 	"homepage": "https://github.com/Shukaaku/coffee-api.js#readme",
 	"private": false,
 	"dependencies": {
-		"node-superfetch": "^0.2.2"
+		"node-superfetch": "^0.2.3"
 	},
 	"devDependencies": {
 		"@types/node": "^14.14.37",
